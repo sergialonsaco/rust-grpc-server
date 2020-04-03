@@ -1,0 +1,14 @@
+syntax = "proto3";
+package grpc_server;
+
+message HiRequest {
+    string hello = 1;
+}
+
+message HiResponse {
+    string message = 1;
+}
+
+service Server01 {
+    rpc SayHi(HiRequest) returns (HiResponse);
+}

@@ -1,5 +1,7 @@
 # rust-grpc-server
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fee507753bbf46b58c408ebdcb3dfb70)](https://app.codacy.com/manual/sergi.alonsobadia/rust-grpc-server?utm_source=github.com&utm_medium=referral&utm_content=sergialonsaco/rust-grpc-server&utm_campaign=Badge_Grade_Dashboard)
+
 Grpc server made with Rust.
 
 ## Usage

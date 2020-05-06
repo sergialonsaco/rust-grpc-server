@@ -4,7 +4,7 @@
 
 Grpc server made with Rust.
 
-## Usage
+## Usage
 
 To run the server in your local machine, while you develop, open a terminal in the root of the project and execute:
 
